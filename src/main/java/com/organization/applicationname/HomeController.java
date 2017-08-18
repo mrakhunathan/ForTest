@@ -68,6 +68,11 @@ public void hello1(){
 
 }
 
+public void hello2(){
+
+}
+
+
 
 /*Test
 */
