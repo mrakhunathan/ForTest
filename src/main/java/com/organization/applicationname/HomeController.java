@@ -71,5 +71,8 @@ String s1="";
 if(s1==null)
 {}
 else{}
+
+try{}
+catch(Exception e){}
 }
 }
