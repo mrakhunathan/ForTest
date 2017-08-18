@@ -59,4 +59,17 @@ public class HomeController {
 	public List<SampleEntity> getAllMenuItems() {
 		return sampleService.getAllSampleEntities();
 	}
+
+public void hello(){
+
+}
+
+
+public void sample()
+{
+String s1="";
+if(s1==null)
+{}
+else{}
+}
 }
