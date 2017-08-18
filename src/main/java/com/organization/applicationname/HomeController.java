@@ -64,6 +64,11 @@ public void hello(){
 
 }
 
+public void hello1(){
+
+}
+
+
 /*Test
 */
 public void sample()
