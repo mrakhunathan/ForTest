@@ -60,30 +60,10 @@ public class HomeController {
 		return sampleService.getAllSampleEntities();
 	}
 
-public void hello5(){
+	@RequestMapping(value = "/getAllSampleEntities1", method = RequestMethod.GET)
+	@ResponseBody
+	public List<SampleEntity> getAllMenuItems1() {
+		
+	}
 
-}
-
-public void hello6(){
-
-}
-
-public void hello7(){
-
-}
-
-
-
-/*Test
-*/
-public void sample1()
-{
-String s1="";
-if(s1==null)
-{}
-else{}
-
-try{}
-catch(Exception e){}
-}
 }
