@@ -62,8 +62,8 @@ public class HomeController {
 
 	@RequestMapping(value = "/getAllSampleEntities1", method = RequestMethod.GET)
 	@ResponseBody
-	public List<SampleEntity> getAllMenuItems1() {
-		
+	public void getAllMenuItems1() {
+				
 	}
 
 }
