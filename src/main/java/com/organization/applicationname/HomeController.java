@@ -60,15 +60,15 @@ public class HomeController {
 		return sampleService.getAllSampleEntities();
 	}
 
-public void hello(){
+public void hello5(){
 
 }
 
-public void hello1(){
+public void hello6(){
 
 }
 
-public void hello2(){
+public void hello7(){
 
 }
 
@@ -76,7 +76,7 @@ public void hello2(){
 
 /*Test
 */
-public void sample()
+public void sample1()
 {
 String s1="";
 if(s1==null)
